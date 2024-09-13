@@ -4,44 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        h1 {
-            border-bottom: 2px solid #444;
-            padding-bottom: 10px;
-        }
-        pre {
-            background-color: #eee;
-            padding: 10px;
-            border-radius: 4px;
-            overflow-x: auto;
-        }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin: 20px 0;
-        }
-        table, th, td {
-            border: 1px solid #ddd;
-            padding: 8px;
-        }
-        th {
-            background-color: #f2f2f2;
-            color: #333;
-        }
-        ul {
-            list-style-type: square;
-        }
-    </style>
+
+   
 </head>
 <body>
 
@@ -62,10 +26,9 @@
 
 <h2>Files</h2>
 <ul>
-    <li><strong>alu.v:</strong> Verilog implementation of the 32-bit ALU.</li>
-    <li><strong>alu_tb.v:</strong> Testbench file for simulating and verifying the ALU's functionality.</li>
+    <li><strong>design.sv:</strong> Verilog implementation of the 32-bit ALU.</li>
+    <li><strong>testbench.v:</strong> Testbench file for simulating and verifying the ALU's functionality.</li>
     <li><strong>README.md:</strong> Documentation for the project.</li>
-    <li><strong>Makefile:</strong> Automation script to compile and simulate the design.</li>
 </ul>
 
 <h2>How It Works</h2>
