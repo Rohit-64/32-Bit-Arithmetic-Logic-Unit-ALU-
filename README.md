@@ -27,7 +27,7 @@
 <h2>Files</h2>
 <ul>
     <li><strong>design.sv:</strong> Verilog implementation of the 32-bit ALU.</li>
-    <li><strong>testbench.v:</strong> Testbench file for simulating and verifying the ALU's functionality.</li>
+    <li><strong>testbench.sv:</strong> Testbench file for simulating and verifying the ALU's functionality.</li>
     <li><strong>README.md:</strong> Documentation for the project.</li>
 </ul>
 
